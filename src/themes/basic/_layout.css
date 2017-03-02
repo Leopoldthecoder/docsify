@@ -13,6 +13,10 @@ body:not(.ready) {
   [data-cloak] {
     display: none;
   }
+  
+  nav {
+    display: 0;
+  }
 }
 
 div#app {
